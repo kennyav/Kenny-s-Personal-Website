@@ -11,9 +11,9 @@ export default function Hero() {
             <div className="lg:text-6xl text-4xl font-bold">
                <h2> Developer, </h2>
                <h2> Recent Graduate, </h2>
-               <h2> Favorite Son, </h2>
+               <h2> Favorite Son </h2>
             </div>
-            <p className="text-gray-800 lg:text-lg text-md">I am currently working as the lead developer for The Artificial Intelligence Trust Council, which you can read more about <a className="text-sky-400 hover:bg-gray-200 rounded-md" href="https://landing-page-aitc.vercel.app/">here</a>. Scroll down to learn more about who I am and what I love to do. </p>
+            <p className="text-gray-800 lg:text-lg text-md">I am currently working as a software engineer consultant with BlockSmith Consulting, LLC a software consulting company that I founded and where we work closely with clients to help them realize their software goals. Scroll down to learn more about who I am and what I love to do. </p>
 
 
             {/* links */}
