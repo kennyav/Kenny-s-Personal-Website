@@ -49,7 +49,8 @@ function App() {
       <Title id={"projects-section"} title={"Projects"} />
       <Projects projects={[
         { title: "AITC", url: "https://aitc.vercel.app", image: "/AITCCertifiedMark.png" },
-        { title: "Tmtopia", url: "https://trademarktopia.tmtopia.com", image: "/bank.png" }]} />
+        { title: "Tmtopia", url: "https://trademarktopia.tmtopia.com", image: "/bank.png" },
+        { title: "Icons", url: "https://icons.blocksmithconsulting.com", image: "/icons.png" }]} />
       <Title id={"contact-section"} title={"Contact"} />
       <Footer />
     </div>
