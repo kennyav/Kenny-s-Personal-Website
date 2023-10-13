@@ -11,13 +11,13 @@ Welcome to my personal website! This repository contains the source code and con
 
 ## About
 
-In this section, you can provide a brief introduction about yourself. Share your background, interests, and what visitors can expect to find on your website. Feel free to include a photo of yourself or an avatar to personalize this section.
+I am currently working as a software engineer consultant with BlockSmith Consulting, LLC a software consulting company that I founded and where we work closely with clients to help them realize their software goals. Scroll down to learn more about who I am and what I love to do.
 
 ## Projects
 
-This section is dedicated to showcasing the projects you've worked on. You can include descriptions, screenshots, and links to the repositories or live demos of your projects. Organize this section in a clear and concise manner, and provide enough information for visitors to understand what you've accomplished.
+This section is dedicated to showcasing the projects I've worked on. Includes are descriptions, screenshots, and links to the repositories or live demos of the projects. 
 
-### Project 1: [Project Name]
+### AITC: [Project Name]
 
 [Description of the project]
 
@@ -33,25 +33,11 @@ This section is dedicated to showcasing the projects you've worked on. You can i
 
 [Project screenshot or image]
 
-## Blog
-
-If you have a blog or write articles, this is where you can provide links to your latest blog posts. You can also include a short description of the topics you usually write about.
-
-### Latest Blog Posts
-
-1. [Title of Blog Post 1](#)
-   - Description or excerpt from the post.
-2. [Title of Blog Post 2](#)
-   - Description or excerpt from the post.
-
 ## Contact
 
 In this section, provide ways for visitors to get in touch with you. You can include links to your social media profiles, an email address, or a contact form. Encourage visitors to reach out for collaboration, questions, or feedback.
 
-- Email: [your@email.com](mailto:your@email.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: [kenneth.averna@gmail.com](mailto:kenneth.averna@gmail.cpm)
+- LinkedIn: [Kenneth Averna](https://www.linkedin.com/in/kenneth-averna)
 
 ---
-
-Feel free to customize this README to match your personal branding, style, and content. Make sure to keep it up-to-date with the latest information about yourself and your work. Good luck with your personal website!
