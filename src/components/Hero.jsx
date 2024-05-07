@@ -4,7 +4,7 @@ import { Tooltip } from "@material-tailwind/react";
 export default function Hero() {
 
    return (
-      <div id="top-page" className="flex lg:flex-row md:flex-row flex-col w-full h-full items-center lg:h-96 md:h-80 h-64 lg:mt-32 lg:mt-20 mt-10 text-gray-600">
+      <div id="top-page" className="flex lg:flex-row md:flex-row flex-col w-full h-full items-center lg:h-96 md:h-80 lg:mt-32 mt-10 text-gray-600">
 
          {/* description */}
          <div className="flex flex-col lg:w-1/2 md:w-1/2 w-full h-full p-4 pl-10 pt-12 text-left gap-4">
