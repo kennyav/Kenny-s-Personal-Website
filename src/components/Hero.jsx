@@ -4,7 +4,7 @@ import { Tooltip } from "@material-tailwind/react";
 export default function Hero() {
 
    return (
-      <div id="top-page" className="flex lg:flex-row md:flex-row flex-col w-full h-full items-center lg:h-96 md:h-80 h-64 lg:mt-32 lg:mt-20 mt-10 text-gray-600">
+      <div id="top-page" className="flex lg:flex-row md:flex-row flex-col w-full h-full items-center lg:h-96 md:h-80 lg:mt-32 mt-10 text-gray-600">
 
          {/* description */}
          <div className="flex flex-col lg:w-1/2 md:w-1/2 w-full h-full p-4 pl-10 pt-12 text-left gap-4">
@@ -13,7 +13,7 @@ export default function Hero() {
                <h2> Recent Graduate, </h2>
                <h2> Favorite Son </h2>
             </div>
-            <p className="text-gray-800 lg:text-lg text-md">I am currently working as a software engineer consultant with BlockSmith Consulting, LLC a software consulting company that I founded and where we work closely with clients to help them realize their software goals. Scroll down to learn more about who I am and what I love to do. </p>
+            <p className="text-gray-800 lg:text-lg text-md">I am currently working as a software engineer consultant with <a href="blocksmithconsulting.com">BlockSmith Consulting, LLC</a> a software consulting company that I founded and where we work closely with clients to help them realize their software goals. Scroll down to learn more about who I am and what I love to do. </p>
 
 
             {/* links */}
